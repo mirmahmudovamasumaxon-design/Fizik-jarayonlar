@@ -1,0 +1,2 @@
+# Fizik-jarayonlar
+Fizik jarayonlar
